@@ -16,6 +16,6 @@ profile_pic: >-
 favicon: /assets/img/favicon.png
 url: 'http://federal-emergency-management-agency.dayda.org'
 encoding: utf-8
-paginate: 10
+paginate: 25
 paginate_path: '/page:num/'
 markdown: kramdown
